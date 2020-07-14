@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "eslint.enable": true,
+    "files.associations": {
+        "*.json": "jsonc"
+    },
+    "editor.tabSize": 2,
+    
+    "git.ignoreLimitWarning": true
+}
